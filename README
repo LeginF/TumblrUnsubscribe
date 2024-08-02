@@ -1,0 +1,25 @@
+tumblrUnsubscribe
+=================
+Script to automatically unsubscribe from 
+abandoned tumbler feeds. This is based on 
+a script from eJohnny (dev.ejohnny.ro). 
+His script stopped after 80 feeds when
+run on modern version of Tumblr. To overcome
+this issue, I added a do-while loop that
+will enable to script to run until it 
+makes a loop without unsubscribing to any
+feeds. 
+
+How to Use
+----------
+1. Open tumblr
+2. Open the list of followers
+3. Scroll all the way to the bottom
+4. Open the developer console
+5. Select the console tab
+6. Copy and paste the code to the 
+console tab.
+7. Hit enter and watch it run.
+
+Share and enjoy. There is no warranty on this software. Use at your own risk.
+
